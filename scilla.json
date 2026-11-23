@@ -1,0 +1,12 @@
+{
+  "$schema": "https://unpkg.com/scilla-cli/dist/scilla.schema.json",
+  "name": "ediiiz-skills",
+  "description": "Curated scilla collection of Matt Pocock, Svelte, and shadcn-svelte agent skills",
+  "homepage": "https://github.com/ediiiz/skills",
+  "references": [
+    "mattpocock/skills/skills/engineering",
+    "mattpocock/skills/skills/productivity",
+    "sveltejs/ai-tools/tools/skills",
+    "huntabyte/shadcn-svelte/skills"
+  ]
+}
